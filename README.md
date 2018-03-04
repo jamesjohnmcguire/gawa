@@ -31,7 +31,9 @@ Installing APK on an emulator
 
 
 Installing on the Phone
+
 	They don't make this easy and this can get a bit technical.  I wouldn't be surprised if you run into problems, trying to do this the first time around.
+
 	1. Enable Installation of external APK Files
 		a. Allow Unknown Sources
 			On your phone, choose Settings -> Security -> Allow Unknown Sources
