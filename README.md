@@ -6,6 +6,8 @@ Just want to download the latest APK?
 
 [apk](com.gawaproject.apk)
 
+<a id="raw-url" class="btn btn-sm BtnGroup-item" href="/jamesjohnmcguire/gawa/raw/master/com.gawaproject.apk">Download</a>
+
 Installing APK on an emulator
 
 	1. Install an emulator
