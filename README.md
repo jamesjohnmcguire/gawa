@@ -2,11 +2,7 @@
 
 Just want to download the latest APK?
 
-<a id="raw-url" class="btn btn-sm BtnGroup-item" href="com.gawaproject.apk" download="com.gawaproject.apk">Download APK</a>
-
-[apk](com.gawaproject.apk)
-
-<a id="raw-url" class="btn btn-sm BtnGroup-item" href="https://raw.githubusercontent.com/jamesjohnmcguire/gawa/master/com.gawaproject.apk">Download</a>
+<a id="raw-url" href="https://raw.githubusercontent.com/jamesjohnmcguire/gawa/master/com.gawaproject.apk">Download APK</a>
 
 Read more [here](./com.gawaproject.apk) # It works!
 
