@@ -4,7 +4,7 @@ Just want to download the latest APK?
 
 <a id="raw-url" class="btn btn-sm BtnGroup-item" href="com.gawaproject.apk">Download APK</a>
 
-[apk]("/jamesjohnmcguire/gawa/raw/master/com.gawaproject.apk")
+[apk]("com.gawaproject.apk")
 
 Installing APK on an emulator
 
