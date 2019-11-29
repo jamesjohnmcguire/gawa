@@ -2,7 +2,7 @@
 
 Just want to download the latest APK?
 
-<a id="raw-url" class="btn btn-sm BtnGroup-item" href="com.gawaproject.apk" download>Download APK</a>
+<a id="raw-url" class="btn btn-sm BtnGroup-item" href="com.gawaproject.apk" download="com.gawaproject.apk">Download APK</a>
 
 [apk](com.gawaproject.apk)
 
